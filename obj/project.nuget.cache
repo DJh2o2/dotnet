@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBEoHj6rd9wpBhn5GASGgid7vHabMbxMoiQ10mdx2Ghh7SSe/0YYeyHC0ARs69jdmZPH25vHaaNwSWtyYFLIRA==",
+  "success": true,
+  "projectFilePath": "/home/sascha/Coding/dotnet/dotnet.csproj",
+  "expectedPackageFiles": [
+    "/home/sascha/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

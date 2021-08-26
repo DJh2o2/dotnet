@@ -1,0 +1,16 @@
+/home/sascha/Coding/dotnet/bin/Debug/net5.0/dotnet
+/home/sascha/Coding/dotnet/bin/Debug/net5.0/dotnet.deps.json
+/home/sascha/Coding/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.json
+/home/sascha/Coding/dotnet/bin/Debug/net5.0/dotnet.runtimeconfig.dev.json
+/home/sascha/Coding/dotnet/bin/Debug/net5.0/dotnet.dll
+/home/sascha/Coding/dotnet/bin/Debug/net5.0/ref/dotnet.dll
+/home/sascha/Coding/dotnet/bin/Debug/net5.0/dotnet.pdb
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.csprojAssemblyReference.cache
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfoInputs.cache
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.AssemblyInfo.cs
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.csproj.CoreCompileInputs.cache
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.dll
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/ref/dotnet.dll
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.pdb
+/home/sascha/Coding/dotnet/obj/Debug/net5.0/dotnet.genruntimeconfig.cache
